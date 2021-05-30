@@ -1,2 +1,2 @@
 # WorkingWithFiles
-Python program working with files. 
+Create a program using bash commands that will locate find, open and write on files.  
